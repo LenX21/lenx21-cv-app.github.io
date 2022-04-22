@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.519765bd.css",
-    "main.js": "/static/js/main.27228cae.js",
-    "static/js/787.dbc30ae6.chunk.js": "/static/js/787.dbc30ae6.chunk.js",
-    "static/media/intro.jpg": "/static/media/intro.4b9a8de68f6ee86babf6.jpg",
-    "static/media/MartinFriman.jpg": "/static/media/MartinFriman.4e1103b43457e0472adc.jpg",
-    "static/media/code.jpg": "/static/media/code.3649f32914cf47b9ec26.jpg",
-    "static/media/ui.jpg": "/static/media/ui.74af3d3a9697f06c56e9.jpg",
-    "index.html": "/index.html",
-    "main.519765bd.css.map": "/static/css/main.519765bd.css.map",
-    "main.27228cae.js.map": "/static/js/main.27228cae.js.map",
-    "787.dbc30ae6.chunk.js.map": "/static/js/787.dbc30ae6.chunk.js.map"
+    "main.css": "/cv-app/static/css/main.97017d28.css",
+    "main.js": "/cv-app/static/js/main.3debe7c3.js",
+    "static/js/787.dbc30ae6.chunk.js": "/cv-app/static/js/787.dbc30ae6.chunk.js",
+    "static/media/intro.jpg": "/cv-app/static/media/intro.4b9a8de68f6ee86babf6.jpg",
+    "static/media/MartinFriman.jpg": "/cv-app/static/media/MartinFriman.4e1103b43457e0472adc.jpg",
+    "static/media/code.jpg": "/cv-app/static/media/code.3649f32914cf47b9ec26.jpg",
+    "static/media/ui.jpg": "/cv-app/static/media/ui.74af3d3a9697f06c56e9.jpg",
+    "index.html": "/cv-app/index.html",
+    "main.97017d28.css.map": "/cv-app/static/css/main.97017d28.css.map",
+    "main.3debe7c3.js.map": "/cv-app/static/js/main.3debe7c3.js.map",
+    "787.dbc30ae6.chunk.js.map": "/cv-app/static/js/787.dbc30ae6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.519765bd.css",
-    "static/js/main.27228cae.js"
+    "static/css/main.97017d28.css",
+    "static/js/main.3debe7c3.js"
   ]
 }
